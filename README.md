@@ -24,6 +24,9 @@ Best recommended local server development tools is `laragon'`
 <img src="https://raw.githubusercontent.com/arif98741/sslcommerz-laravel-demo-js-example/master/screenshot/payment-popup.png" style="width: 60%; height: 60%">
 <br>
 <br>
+<img src="https://raw.githubusercontent.com/arif98741/sslcommerz-laravel-demo-js-example/master/screenshot/gateway-page.png" style="width: 60%; height: 60%">
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/arif98741/sslcommerz-laravel-demo-js-example/master/screenshot/payment-success-response.png" style="width: 60%; height: 60%">
 
 <br>

@@ -18,4 +18,13 @@ Best recommended local server development tools is `laragon'`
  `php artisan serve`
 
 ## Payment Screenshots
-<img src="https://raw.githubusercontent.com/arif98741/laravelbdsms/master/img/installation.png" style="width: 60%; height: 60%">
+<img src="https://raw.githubusercontent.com/arif98741/sslcommerz-laravel-demo-js-example/master/screenshot/payment-page.png" style="width: 60%; height: 60%">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/arif98741/sslcommerz-laravel-demo-js-example/master/screenshot/payment-popup.png" style="width: 60%; height: 60%">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/arif98741/sslcommerz-laravel-demo-js-example/master/screenshot/payment-success-response.png" style="width: 60%; height: 60%">
+
+<br>
+<br>

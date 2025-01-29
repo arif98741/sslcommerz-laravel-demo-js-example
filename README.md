@@ -8,6 +8,7 @@
 
 Best recommended local server development tools is `laragon'`
 
+[Laravel Checkout Payment Demo](https://github.com/Programming-Mindset/sslcommerze-demopayment)
 
 ## Run Project
 1. If you place project inside www or htdocs directory then access project using 
